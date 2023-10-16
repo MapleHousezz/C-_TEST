@@ -10,6 +10,6 @@ struct student {
 	float math;
 	float sum;
 	float ave;
-};
+}bc = {'GQL',0,0,0,0};
 
 #endif
